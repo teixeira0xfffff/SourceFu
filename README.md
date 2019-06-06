@@ -37,7 +37,7 @@ SourceFu is a java program aiming at providing in the end a source-to-source deo
 ## Quick start
 
 ```
-wget https://github.com/Big5-sec/SourceFu/releases/download/Development/sourcefu-dev-0.01.jar
+wget https://github.com/Big5-sec/SourceFu/releases/download/0.01/sourcefu-0.01.jar
 wget https://github.com/Big5-sec/SourceFu/raw/master/tests/VBA/obfuscators/JO-Obfuscator/code.vba
 java -jar sourcefu-dev-0.01.jar standalone code.vba
 ```
